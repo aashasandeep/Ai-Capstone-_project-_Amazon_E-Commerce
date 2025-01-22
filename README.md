@@ -1,3 +1,12 @@
+![pyLDAvis capstone](https://github.com/user-attachments/assets/2bd314e7-2671-4fec-b9fb-75ebb0204852)
+![capstone word cloud](https://github.com/user-attachments/assets/022e75a4-1ea6-4f17-bbff-ce2410a29c51)
+![capstone top 10 feature importance ](https://github.com/user-attachments/assets/5c740ce0-bac3-40b0-93e4-5f11957b8cce)
+![capstone project sentiment analysis picture](https://github.com/user-attachments/assets/9a07778b-6041-4c16-aaaa-ed8bfe448f88)
+![capstone project Proportion of sentiment categories](https://github.com/user-attachments/assets/9a6ba82f-ca3b-4691-bc32-fd8846e6adcb)
+![capstone project pridiction  value](https://github.com/user-attachments/assets/071b81c4-405a-4e58-8dda-57c563b36b21)
+![capstone project logistic regression prediction value ](https://github.com/user-attachments/assets/b397b414-fd54-46e4-b95e-6762320fc8e6)
+![capstone project Distribution of reviews sentiment](https://github.com/user-attachments/assets/f4e134e6-6327-445a-9c01-bd18009fbdd8)
+![capstone importance combined head](https://github.com/user-attachments/assets/60bcac93-5ee8-4d79-9f46-aa206fb414ac)
 # Ai-Capstone-_project-_Amazon_E-Commerce
 Ai Capstone_project_Amazon_E_Commerce
 AI-Capstone-Project-on-E-Commerce-Amazon-Domain-
